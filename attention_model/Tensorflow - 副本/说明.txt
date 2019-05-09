@@ -1,1 +1,0 @@
-用Tensorflow编写的Encoder-Decoder预测模型，使用了注意力机制
